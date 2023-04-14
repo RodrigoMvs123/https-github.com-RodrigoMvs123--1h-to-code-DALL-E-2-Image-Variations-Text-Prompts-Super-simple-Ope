@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=PVK4_foBnwY
 
 https://raw.githubusercontent.com/RodrigoMvs123/https-github.com-RodrigoMvs123--1h-to-code-DALL-E-2-Image-Variations-Text-Prompts-Super-simple-Ope/main/README.md
 
+https://github.com/RodrigoMvs123/https-github.com-RodrigoMvs123--1h-to-code-DALL-E-2-Image-Variations-Text-Prompts-Super-simple-Ope/blame/main/README.md
+
 https://nodejs.org/en
 
 aniakubow@Anias-MacBook-Pro ~ % cd WebStormProjects
